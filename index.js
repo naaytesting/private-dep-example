@@ -1,5 +1,5 @@
 const https = require('https');
-const isok = require ('@naaytesting/isok');
+const isok = require ('naaytesting/isok');
 
 const options = {
   hostname: 'example.com',
